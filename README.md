@@ -6,10 +6,10 @@ A simple arcade-style game made with **Python** and **Pygame**. Control your goo
 
 - You control the player (a goose) using the arrow keys.
 - **Controls:**
-  **Arrow Up:**    Move up
-  **Arrow Down:**  Move down
-  **Arrow Right:** Move forward faster
-  **Arrow Left:**  Move backward
+  **Arrow Up:**    Move up;
+  **Arrow Down:**  Move down;
+  **Arrow Right:** Move forward faster;
+  **Arrow Left:**  Move backward;
 - Avoid enemies and collect bonuses to earn points.
 - The game ends if you collide with an enemy.
 - When the game ends, a **Game Over** screen is displayed.
